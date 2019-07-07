@@ -1,0 +1,2 @@
+# KaggleForFun
+Kaggle competitions
